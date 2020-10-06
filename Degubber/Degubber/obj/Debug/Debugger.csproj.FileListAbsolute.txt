@@ -1,0 +1,6 @@
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\bin\Debug\Debugger.exe.config
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\bin\Debug\Debugger.exe
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\bin\Debug\Debugger.pdb
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\obj\Debug\Debugger.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\obj\Debug\Debugger.exe
+C:\Users\mcelhinny_benjamin\Source\Repos\Degubber\Degubber\obj\Debug\Debugger.pdb
